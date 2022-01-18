@@ -11,17 +11,20 @@
         android:textSize="35sp"
         android:gravity="center"/>
 
-    <!--<ImageView
+    <!--Para todos los smartphones-->
+    <ImageView
         android:id="@+id/artwork"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:adjustViewBounds="true"/>-->
+        android:adjustViewBounds="true"/>
 
-    <ImageView
+    <!--Para mi smartphone personal-->
+    <!--<ImageView
         android:id="@+id/artwork"
         android:layout_width="500dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"/>
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"/>-->
 
     <TextView
         android:id="@+id/elemento"
